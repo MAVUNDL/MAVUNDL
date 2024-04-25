@@ -1,28 +1,34 @@
-# Hello, World! 👋
-
-I'm Skhumbuzo Bembe, a third-year Mathematical Science student specializing in Mathematics & Computer Science (Extended) at the University of Johannesburg. I'm currently based in Piet Retief, Mpumalanga Province, South Africa.
+# Skhumbuzo Bembe
+Third-year Mathematical Science student specializing in Mathematics & Computer Science (Extended) at the University of Johannesburg. Currently based in Piet Retief, Mpumalanga Province, South Africa.
 
 ## 🎓 Education
-
-I'm pursuing a BSc in Mathematical Science in Mathematics & Computer Science (Extended) at the University of Johannesburg.
+- Pursuing a **BSc in Mathematical Science** in Mathematics & Computer Science (Extended) at the **University of Johannesburg**.
 
 ## 💻 Skills
-
-I'm proficient in C++, Java, and Python, with a strong foundation in procedural and object-oriented programming. I'm currently expanding my expertise in Java Object-Oriented Programming and refining my Python Object-Oriented Programming skills. I also have knowledge in Python customtkinter, tkinter, and ttkbootstrap.
+- Proficient in **C++**, **Java**, and **Python**, with a strong foundation in procedural and object-oriented programming.
+- Currently expanding expertise in Java Object-Oriented Programming and refining Python Object-Oriented Programming skills.
+- Knowledgeable in Python customtkinter, tkinter, and ttkbootstrap.
 
 ## 📚 Knowledge
-
-I'm well-versed in mathematical disciplines including Differential Calculus, Integral Calculus, Applied Mathematics (Mechanics and Statics), and Statistics. I have experience in both descriptive and inferential statistics, with ongoing studies in advanced Statistics and Data Analysis using R.
+- Well-versed in mathematical disciplines including Differential Calculus, Integral Calculus, Applied Mathematics (Mechanics and Statics), and Statistics.
+- Experience in both descriptive and inferential statistics, with ongoing studies in advanced Statistics and Data Analysis using R.
 
 ## 🌱 Learning
-
-I'm currently enhancing my skills in Calculus 2, Linear Algebra, and Computer Science 2 (Java programming), aiming to merge theoretical knowledge with practical application in solving real-world challenges.
+- Enhancing skills in Calculus 2, Linear Algebra, and Computer Science 2 (Java programming), aiming to merge theoretical knowledge with practical application in solving real-world challenges.
 
 ## 👯 Collaboration
-
-I'm committed to continuous learning, collaborative problem-solving, and leveraging technology to innovate and drive positive change. I'm open to opportunities for internships, research collaborations, and projects in the fields of mathematics, computer science, and data analysis.
+- Committed to continuous learning, collaborative problem-solving, and leveraging technology to innovate and drive positive change.
+- Open to opportunities for internships, research collaborations, and projects in the fields of mathematics, computer science, and data analysis.
 
 ## 📫 Contact Me
+- Connect with me to explore potential collaborations or discuss shared interests in mathematics, computer science, and beyond. Also available on LinkedIn.
 
-Connect with me to explore potential collaborations or discuss shared interests in mathematics, computer science, and beyond. Check me of Linkedin also: www.linkedin.com/in/skhumbuzo-bembe-736602233
-
+## 🚀 Experience
+- **J.P. Morgan Software Engineering Virtual Experience on Forage - April 2024**
+    - Set up a local dev environment by downloading the necessary files, tools, and dependencies.
+    - Fixed broken files in the repository to make the web application output correctly.
+    - Used JPMorgan Chase’s open-source library called Perspective to generate a live graph that displays a data feed in a clear and visually appealing way for traders to monitor.
+- **JPMorgan Chase & Co. Software Engineering Lite virtual experience program on Forage - April 2024**
+    - Completed a simulation focused on the process of completing an engineering ticket for a system in the credit-card rewards department of JPMorgan Chase & Co.
+    - Created a new class to get an existing system up and running.
+    - Wrote a test suite for the class added.
