@@ -7,6 +7,7 @@ Third-year Mathematical Science student specializing in Mathematics & Computer S
 ## 💻 Skills
 - Proficient in **C++**, **Java**, and **Python**, with a strong foundation in procedural and object-oriented programming.
 - Currently expanding expertise in Java Object-Oriented Programming and refining Python Object-Oriented Programming skills.
+- Skilled in Computer Networking, including Java Networking, Webservers, TCP, and UDP.
 - Knowledgeable in Python customtkinter, tkinter, and ttkbootstrap.
 
 ## 📚 Knowledge
