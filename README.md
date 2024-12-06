@@ -1,5 +1,5 @@
 # Skhumbuzo Bembe
-Third-year Mathematical Science student specializing in Mathematics & Computer Science (Extended) at the University of Johannesburg. Currently based in Piet Retief, Mpumalanga Province, South Africa.
+Final-year Mathematical Science student specializing in Mathematics & Computer Science (Extended) at the University of Johannesburg. Currently based in Piet Retief, Mpumalanga Province, South Africa.
 
 ## 🎓 Education
 - Pursuing a **BSc in Mathematical Science** in Mathematics & Computer Science (Extended) at the **University of Johannesburg**.
@@ -8,14 +8,16 @@ Third-year Mathematical Science student specializing in Mathematics & Computer S
 - Proficient in **C++**, **Java**, and **Python**, with a strong foundation in procedural and object-oriented programming.
 - Currently expanding expertise in Java Object-Oriented Programming and refining Python Object-Oriented Programming skills.
 - Skilled in **Computer Networking**, including **Java Networking, Webservers, TCP, and UDP**.
-- Knowledgeable in Python customtkinter, tkinter, and ttkbootstrap.
+- **Web Development**: React.js, PostgreSQL, RESTful APIs.
 
 ## 📚 Knowledge
 - Well-versed in mathematical disciplines including Differential Calculus, Integral Calculus, Applied Mathematics (Mechanics and Statics), and Statistics.
 - Experience in both descriptive and inferential statistics, with ongoing studies in advanced Statistics and Data Analysis using R.
 
-## 🌱 Learning
-- Enhancing skills in Calculus 2, Linear Algebra, and Computer Science 2 (Java programming), aiming to merge theoretical knowledge with practical application in solving real-world challenges.
+## 🌱 Current Focus
+- Advancing skills in **React.js**, **API development**, and **Java OOP**.
+- Expanding expertise in **data science** and **mathematical modeling** for real-world applications.
+
 
 ## 👯 Collaboration
 - Committed to continuous learning, collaborative problem-solving, and leveraging technology to innovate and drive positive change.
