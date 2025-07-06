@@ -13,7 +13,7 @@ Final-year Mathematical Science student specializing in Mathematics & Computer S
 
 ### 🗃️ Frameworks
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=spring,express" />
+    <img src="https://skillicons.dev/icons?i=spring,express,react" />
 </p>
 
 ### 🛠️ Tools
