@@ -1,5 +1,5 @@
 # Skhumbuzo Bembe
-Final-year Mathematical Science student specializing in Mathematics & Computer Science (Extended) at the University of Johannesburg. Currently based in Johannesburg, Gauteng Province, South Africa.
+BSc Mathematical Science Graduate specializing in Mathematics & Computer Science at the University of Johannesburg. Currently based in Johannesburg, Gauteng Province, South Africa.
 
 ## 🎓 Education
 - Pursuing a **BSc in Mathematical Science** in Mathematics & Computer Science at the **University of Johannesburg**.
