@@ -13,6 +13,7 @@ I design and ship **production-grade financial technology** — from RAG pipelin
 
 | Domain | What I've Shipped |
 |---|---|
+| **Full-Stack Fintech** | P2P supply chain finance platform — Java 25, Spring Boot, Next.js — **live in production** on DigitalOcean + Netlify |
 | **AI & RAG Systems** | Enterprise RAG pipeline for IFRS 9 banking disclosures (Java, LangChain4j, ChromaDB) |
 | **Credit Risk Modelling** | XGBoost & logistic regression models at 84% accuracy on real bank datasets (ABSA, Standard Bank) |
 | **Graph Neural Networks** | Custom GNN in pure Java achieving **95% classification accuracy** on industrial mining data |
@@ -41,10 +42,10 @@ Java: `Spring Boot` · `Spring Batch` · `Spring Kafka` · `LangChain4j`
 **Data & Infrastructure**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,docker,kafka,git,aws" />
+  <img src="https://skillicons.dev/icons?i=postgres,docker,kafka,git,aws,digitalocean,netlify" />
 </p>
 
-`PostgreSQL` · `ChromaDB` · `Kafka` · `Docker` · `CI/CD` · `ETL Pipelines`
+`PostgreSQL` · `ChromaDB` · `Kafka` · `Docker` · `CI/CD` · `ETL Pipelines` · `DigitalOcean` · `Netlify` · `Flyway`
 
 **Quantitative Methods**
 
@@ -53,6 +54,17 @@ Java: `Spring Boot` · `Spring Batch` · `Spring Kafka` · `LangChain4j`
 ---
 
 ## 🏗️ Featured Projects
+
+### 🔷 [Veridian Trade Vault — Live in Production](https://veridian-trade-vault-banking-system.netlify.app/)
+*Java 25 · Spring Boot 4 · Spring Security · Spring Batch · PostgreSQL · Flyway · Docker · Next.js · TypeScript · DigitalOcean · Netlify*
+
+A P2P supply chain finance platform inspired by Investec's PB and CIB ecosystem — Private Banking clients fund corporate shipments directly, with every transaction tracked on a double-entry ledger. Started by ingesting real data from Investec's sandbox API via a Spring Batch ETL pipeline, then pivoted to a self-designed relational data model after identifying that the sandbox data lacked meaningful entity relationships. Designed 10 companies, 100 shipments, and linked accounts/transactions/beneficiaries from scratch — seeded via Flyway migrations.
+
+Features atomic capital deployment (`@Transactional` across 4 steps), JWT auth with 15-min access + 7-day refresh tokens, method-level RBAC, and CORS-configured cross-origin communication. **Deployed: backend on Ubuntu/DigitalOcean, frontend on Netlify.**
+
+🔗 [Live Demo](https://veridian-trade-vault-banking-system.netlify.app/) · 🌐 [API](https://skhumbuzo-software-engineering-projects.site)
+
+---
 
 ### 🔷 [Financial Risk Intelligence Engine](https://github.com/MAVUNDL)
 *Java 25 · Spring Boot · LangChain4j · ChromaDB · Docker*
