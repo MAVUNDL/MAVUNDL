@@ -1,9 +1,9 @@
 # Skhumbuzo Bembe
-### Quantitative Software Engineer · Johannesburg, South Africa
+### Software Engineer · Johannesburg, South Africa
 
 > Building intelligent financial systems at the intersection of mathematics, machine learning, and backend engineering.
 
-I design and ship **production-grade financial technology** — from RAG pipelines that analyse IFRS 9 banking disclosures, to GNN classifiers built from scratch in pure Java, to credit risk models deployed for real bank datasets. My work combines rigorous quantitative thinking with clean, scalable engineering.
+Software engineer with a BSc in Mathematics and Computer Science (UJ), specialising in backend systems, API design, and data-driven applications. Proficient in Java (Spring Boot), Python, and Node.js — with hands-on experience building microservices, RAG pipelines, and containerized deployments.
 
 📄 [View My Resume](https://linkedin.com/in/skhumbuzo-bembe) · 💻 [Explore My Projects](https://github.com/MAVUNDL) · 🔗 [LinkedIn](https://linkedin.com/in/skhumbuzo-bembe)
 
