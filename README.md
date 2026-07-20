@@ -1,128 +1,166 @@
-# Skhumbuzo Bembe
-### Software Engineer · Johannesburg, South Africa
+<div align="center">
 
-> Building intelligent financial systems at the intersection of mathematics, machine learning, and backend engineering.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:1E3A8A&height=200&section=header&text=Skhumbuzo%20Bembe&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Software%20%7C%20Data%20%7C%20AI%20Engineer&descAlignY=55&descSize=18" />
 
-Software engineer with a BSc in Mathematics and Computer Science (UJ), specialising in backend systems, API design, and data-driven applications. Proficient in Java (Spring Boot), Python, and Node.js — with hands-on experience building microservices, RAG pipelines, and containerized deployments.
+<a href="https://linkedin.com/in/skhumbuzo-bembe"><img src="https://img.shields.io/badge/LinkedIn-1E3A8A?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:skhumbuzo.bembe@outlook.com"><img src="https://img.shields.io/badge/Email-1E3A8A?style=flat-square&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/MAVUNDL"><img src="https://img.shields.io/badge/GitHub-1E3A8A?style=flat-square&logo=github&logoColor=white" /></a>
+<img src="https://img.shields.io/github/followers/MAVUNDL?label=Followers&style=flat-square&color=1E3A8A&labelColor=0F172A" />
 
-📄 [View My Resume](https://linkedin.com/in/skhumbuzo-bembe) · 💻 [Explore My Projects](https://github.com/MAVUNDL) · 🔗 [LinkedIn](https://linkedin.com/in/skhumbuzo-bembe)
+<br/>
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=1E3A8A&center=true&vCenter=true&width=600&lines=BSc+Mathematics+%26+Computer+Science+Graduate;Backend+%2B+Data+Engineering+%2B+Applied+ML;Building+systems+for+fintech+and+regulated+data" />
 
-## 🚀 What I Build
+</div>
 
-| Domain | What I've Shipped |
-|---|---|
-| **Full-Stack Fintech** | P2P supply chain finance platform — Java 25, Spring Boot, Next.js — **live in production** on DigitalOcean + Netlify |
-| **AI & RAG Systems** | Enterprise RAG pipeline for IFRS 9 banking disclosures (Java, LangChain4j, ChromaDB) |
-| **Credit Risk Modelling** | XGBoost & logistic regression models at 84% accuracy on real bank datasets (ABSA, Standard Bank) |
-| **Graph Neural Networks** | Custom GNN in pure Java achieving **95% classification accuracy** on industrial mining data |
-| **Financial Systems** | Trade lifecycle validation in Murex (Forex, Futures); cash flow & P&L modelling |
-| **Backend APIs** | RESTful microservices with JWT auth, Kafka messaging, and cloud deployment (AWS, Render) |
+<br/>
 
----
+## About
 
-## 🧠 Core Stack
+I'm a software and data engineer with a **BSc in Mathematics and Computer Science** (University of Johannesburg, completed January 2026). I build backend systems, data pipelines, and applied ML/AI tools — with a particular pull toward finance: trade validation in Murex, credit risk models on real bank datasets, and RAG pipelines over regulatory disclosures.
+
+Currently exploring real-time data engineering (Kafka, PyFlink) and LLM-augmented backend systems.
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1E3A8A,100:0F172A&height=3" />
+
+## Featured Work
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3>🏦 Trade Vault Banking System</h3>
+
+P2P supply chain finance platform inspired by Investec's PB/CIB model. Private Banking clients fund corporate shipments through a real-time shadow ledger — double-entry accounting, atomic transactions, JWT-secured RBAC. **Live in production.**
+
+<img src="https://img.shields.io/badge/Java_25-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring_Boot_4-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+
+<a href="https://github.com/MAVUNDL/Trade-Vault-Banking-System">↳ View repo</a>
+
+</td>
+<td width="50%" valign="top">
+<h3>📄 RAG System — IFRS 9 Disclosures</h3>
+
+Enterprise RAG pipeline analysing IFRS 9 banking disclosures, with automated metadata enrichment and retrieval tuned to minimise hallucination in a regulated context.
+
+<img src="https://img.shields.io/badge/Java_25-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain4j-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=flat-square&logo=databricks&logoColor=white" />
+
+<a href="https://github.com/MAVUNDL/RAG-System">↳ View repo</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>📦 Real-Time Retail ETL Pipeline</h3>
+
+Event-driven retail data pipeline that reacts to events as they happen rather than batch polling, keeping downstream systems continuously in sync.
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Event--Driven-1E3A8A?style=flat-square&logo=apachekafka&logoColor=white" />
+<img src="https://img.shields.io/badge/Streaming-0F172A?style=flat-square&logo=streamlit&logoColor=white" />
+
+<a href="https://github.com/MAVUNDL/Real-Time-Event-Driven-Retail-ETL-Pipeline">↳ View repo</a>
+
+</td>
+<td width="50%" valign="top">
+<h3>🧠 GNN Image Classifier — Mineral Froth</h3>
+
+Computer vision project classifying mineral flotation images by bubble size, powered by a Graph Neural Network built from scratch — no ML framework scaffolding.
+
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" />
+<img src="https://img.shields.io/badge/Graph_Theory-1E3A8A?style=flat-square" />
+<img src="https://img.shields.io/badge/Custom_ML-0F172A?style=flat-square" />
+
+<a href="https://github.com/MAVUNDL/Image-Classification-and-Similarity-Detection-using-A-Graph-Neural-Network">↳ View repo</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>🛒 E-Commerce REST API</h3>
+
+Secure REST API for a Dell/Lenovo product catalogue, paired with a companion React Native storefront app.
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+
+<a href="https://github.com/MAVUNDL/E-Commerce-REST-API">↳ View repo</a>
+
+</td>
+<td width="50%" valign="top">
+<h3>💼 Java Full-Stack AI Portfolio</h3>
+
+Personal portfolio site — Spring Boot API backing a Next.js frontend.
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+
+<a href="https://github.com/MAVUNDL/Java-FullStack-AI-Portfolio">↳ View repo</a>
+
+</td>
+</tr>
+</table>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1E3A8A,100:0F172A&height=3" />
+
+## Stack, Tools & Environment
 
 **Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=java,py,rust,nodejs,ts,c,cpp" />
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,py,cpp,nodejs" />
-</p>
+**Frameworks & Data**
+<br/>
+<img src="https://skillicons.dev/icons?i=spring,express,react,nextjs,postgres,kafka" />
 
-**Frameworks & Libraries**
+**Infra & Deployment**
+<br/>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,digitalocean,netlify,githubactions" />
 
-<p>
-  <img src="https://skillicons.dev/icons?i=spring,express,react" />
-</p>
+**Tools & IDEs**
+<br/>
+<img src="https://skillicons.dev/icons?i=idea,vscode,postman,git,github,linux,bash,vim" />
 
-Python: `scikit-learn` · `XGBoost` · `Pandas` · `FastAPI`  
-Java: `Spring Boot` · `Spring Batch` · `Spring Kafka` · `LangChain4j`
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1E3A8A,100:0F172A&height=3" />
 
-**Data & Infrastructure**
+## Experience
 
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,docker,kafka,git,aws,digitalocean,netlify" />
-</p>
+<table>
+<tr>
+<td width="25%" valign="top"><b>Jun 2025 – Jul 2025</b></td>
+<td width="25%" valign="top"><b>Murex Analyst</b><br/>Kion Consulting</td>
+<td width="50%" valign="top">Trade booking & validation for Forex and Futures instruments in Murex MX.3; calculated discounting factors, capitalisation metrics, and Economic P&L for valuation workflows within a regulated financial technology environment.</td>
+</tr>
+<tr>
+<td width="25%" valign="top"><b>Jan 2025 – Feb 2025</b></td>
+<td width="25%" valign="top"><b>Quantitative Analyst</b><br/>QuantifyYourFuture (SAGEA)</td>
+<td width="50%" valign="top">Built and evaluated Python credit risk models end-to-end — data prep, feature engineering, model evaluation — reaching 84% accuracy across 20+ engineered features; translated outputs into risk-based decision strategies.</td>
+</tr>
+<tr>
+<td width="25%" valign="top"><b>Feb 2025 – Oct 2025</b></td>
+<td width="25%" valign="top"><b>CS Marking Assistant</b><br/>University of Johannesburg</td>
+<td width="50%" valign="top">Assessed 100+ student C++ submissions weekly for correctness, efficiency, and adherence to programming standards; provided structured feedback on data structures and algorithms.</td>
+</tr>
+</table>
 
-`PostgreSQL` · `ChromaDB` · `Kafka` · `Docker` · `CI/CD` · `ETL Pipelines` · `DigitalOcean` · `Netlify` · `Flyway`
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1E3A8A,100:0F172A&height=3" />
 
-**Quantitative Methods**
+<div align="center">
+<br/>
 
-`Logistic Regression` · `XGBoost` · `Graph Neural Networks` · `Credit Risk Modelling` · `ROC-AUC` · `F1 Optimisation` · `RAG Architecture` · `IFRS 9`
+**Open to graduate roles in fintech engineering, data engineering, and applied ML/AI.**
 
----
+skhumbuzo.bembe@outlook.com · [LinkedIn](https://linkedin.com/in/skhumbuzo-bembe) · [GitHub](https://github.com/MAVUNDL)
 
-## 🏗️ Featured Projects
+<br/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,100:0F172A&height=100&section=footer" />
 
-### 🔷 [Veridian Trade Vault — Live in Production](https://veridian-trade-vault-banking-system.netlify.app/)
-*Java 25 · Spring Boot 4 · Spring Security · Spring Batch · PostgreSQL · Flyway · Docker · Next.js · TypeScript · DigitalOcean · Netlify*
-
-A P2P supply chain finance platform inspired by Investec's PB and CIB ecosystem — Private Banking clients fund corporate shipments directly, with every transaction tracked on a double-entry ledger. Started by ingesting real data from Investec's sandbox API via a Spring Batch ETL pipeline, then pivoted to a self-designed relational data model after identifying that the sandbox data lacked meaningful entity relationships. Designed 10 companies, 100 shipments, and linked accounts/transactions/beneficiaries from scratch — seeded via Flyway migrations.
-
-Features atomic capital deployment (`@Transactional` across 4 steps), JWT auth with 15-min access + 7-day refresh tokens, method-level RBAC, and CORS-configured cross-origin communication. **Deployed: backend on Ubuntu/DigitalOcean, frontend on Netlify.**
-
-🔗 [Live Demo](https://veridian-trade-vault-banking-system.netlify.app/) · 🌐 [API](https://skhumbuzo-software-engineering-projects.site)
-
----
-
-### 🔷 [Financial Risk Intelligence Engine](https://github.com/MAVUNDL)
-*Java 25 · Spring Boot · LangChain4j · ChromaDB · Docker*
-
-Enterprise-grade RAG pipeline that ingests and analyses IFRS 9 banking disclosures. Features multi-stage document ingestion with Apache Tika, LLM-based metadata enrichment, and intelligent query routing to minimize hallucinations. Fully containerized with auditability for regulatory compliance.
-
----
-
-### 🔷 [Graph Convolutional Classifier for Industrial Mining](https://github.com/MAVUNDL)
-*Pure Java · Graph Theory · Custom ML — No External ML Libraries*
-
-Custom Graph Neural Network built from scratch in Java, modelling image pixels as Graph ADTs to detect mineral froth patterns. Achieved **95% classification accuracy** and **100% recall on critical defect detection** — demonstrating deep algorithmic mastery without any ML framework scaffolding.
-
----
-
-### 🔷 [Standard Bank Customer Engagement Model](https://github.com/MAVUNDL)
-*Python · XGBoost · Scikit-Learn · Pandas*
-
-Multi-class classification model predicting customer digital adoption channels (Online, Mobile, Dual) with **84% accuracy**. Included 20+ feature engineering iterations and hyperparameter tuning to deliver actionable insights for risk strategy and campaign personalization.
-
----
-
-### 🔷 [ABSA Credit Default Prediction](https://dropbox.com)
-*Python · Logistic Regression · Risk Analytics*
-
-Borrower default risk classifier optimized with GridSearchCV. Precision/recall analysis guided real credit management decisions — aligned with South Africa's credit risk assessment framework.
-
----
-
-### 🔷 [E-Commerce REST API & Cloud Infrastructure](https://github.com/MAVUNDL)
-*Node.js · Express.js · PostgreSQL · AWS · Render · Aiven*
-
-Secure RESTful API with JWT authentication, email verification, and product/order management. Migrated database from AWS to Aiven for cost optimization; deployed on Render for scalable production performance.
-
----
-
-## 📚 Education
-
-**BSc Mathematical Science** — Mathematics & Computer Science  
-University of Johannesburg · *Graduating January 2026*
-
-Relevant Coursework: Statistical Modelling · Linear Algebra · Multivariable Calculus · Real & Complex Analysis · Discrete Mathematics · Advanced Data Structures & Algorithms · Computer Architecture · OOP
-
----
-
-## 💼 Experience Highlights
-
-- **Murex Analyst @ Kion Consulting** — Trade booking & validation for Forex and Futures instruments; P&L and discounting workflows
-- **Quantitative Analyst @ QuantifyYourFuture (SAGEA)** — Built credit risk models achieving 84% accuracy with 20+ engineered features
-- **CS Marking Assistant @ University of Johannesburg** — Assessed 100+ students weekly on data structures, algorithms, and complexity analysis
-
----
-
-## 📬 Let's Connect
-
-I'm open to **graduate roles, internships, and collaborations** in quantitative finance, fintech engineering, and applied ML.
-
-- 📧 skhumbuzo.bembe@outlook.com
-- 📱 079 015 6664
-- 🔗 [LinkedIn](https://linkedin.com/in/skhumbuzo-bembe)
-- 💻 [GitHub](https://github.com/MAVUNDL)
+</div>
