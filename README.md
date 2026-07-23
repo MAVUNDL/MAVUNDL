@@ -115,15 +115,15 @@ Personal portfolio site — Spring Boot API backing a Next.js frontend.
 
 **Languages**
 <br/>
-<img src="https://skillicons.dev/icons?i=java,py,rust,nodejs,ts,c,cpp" />
+<img src="https://skillicons.dev/icons?i=java,cs,py,rust,nodejs,ts,cpp" />
 
 **Frameworks & Data**
 <br/>
-<img src="https://skillicons.dev/icons?i=spring,express,react,nextjs,postgres,kafka" />
+<img src="https://skillicons.dev/icons?i=spring,dotnet,express,react,nextjs,postgres,kafka" />
 
 **Infra & Deployment**
 <br/>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,digitalocean,netlify,githubactions" />
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,digitalocean,netlify,githubactions" />
 
 **Tools & IDEs**
 <br/>
